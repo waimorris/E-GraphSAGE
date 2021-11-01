@@ -6,8 +6,6 @@ This is a offical PyTorch implementation of E-GraphSAGE.
 - [Pytorch](http://pytorch.org/)
 - [DGL](https://www.dgl.ai/)
 
-If you think is paper useful for you, please cite this paper.
-
 
 ### If you think this work is helpful, please cite
 ```latex
