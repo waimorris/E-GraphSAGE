@@ -1,4 +1,4 @@
-This is a offical PyTorch implementation of E-GraphSAGE.
+This is a PyTorch implementation of the paper E-GraphSAGE.
 
 
 ## Prerequisites
